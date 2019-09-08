@@ -1,4 +1,4 @@
-[![npm version]()]()
+[![npm version](https://badge.fury.io/js/razzle-plugin-disable-sourcemaps.svg)](https://badge.fury.io/js/razzle-plugin-disable-sourcemaps)
 
 # razzle-plugin-disable-sourcemaps
 
