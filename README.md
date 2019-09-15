@@ -1,4 +1,5 @@
 [![npm version](https://badge.fury.io/js/razzle-plugin-disable-sourcemaps.svg)](https://badge.fury.io/js/razzle-plugin-disable-sourcemaps)
+[![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](paypal.me/SamirJouni)
 
 # razzle-plugin-disable-sourcemaps
 
