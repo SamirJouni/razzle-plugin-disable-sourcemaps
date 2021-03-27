@@ -18,3 +18,7 @@ module.exports = {
   plugins: ['disable-sourcemaps'],
 };
 ```
+
+**Get it on NPM:**
+
+https://www.npmjs.com/package/razzle-plugin-brotli-gzip-zopfli
