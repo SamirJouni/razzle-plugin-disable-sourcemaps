@@ -1,6 +1,6 @@
 {
   "name": "razzle-plugin-disable-sourcemaps",
-  "version": "1.0.10",
+  "version": "1.0.11",
   "description": "A razzle plugin that disables source maps for both css and js",
   "main": "./build/main.js",
   "author": "Samir Jouni <contact@samirjouni.com> (https://samirjouni.com)",
@@ -22,7 +22,7 @@
     "plugin"
   ],
   "dependencies": {
-    "optimize-css-assets-webpack-plugin": "^5.0.4",
+    "optimize-css-assets-webpack-plugin": "^6.0.1",
     "postcss-safe-parser": "^5.0.2",
     "webpack": "^5.28.0"
   },
